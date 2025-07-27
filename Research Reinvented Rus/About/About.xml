@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Research Reinvented Rus</name>
+	<author>Kasane Randall</author>  
+	<packageId>KasaneRandall.rus.ResearchReinvented</packageId>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modVersion>1.0</modVersion>
+	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=3535986086</url>
+	<modDependencies>
+      <li>
+        <packageId>PeteTimesSix.ResearchReinvented</packageId>
+        <displayName>Research Reinvented</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/2868392160</steamWorkshopUrl>
+      </li>
+    </modDependencies>
+	<loadAfter>
+		<li>PeteTimesSix.ResearchReinvented</li>
+	</loadAfter>
+	<loadBefore>
+		<li>PeteTimesSix.ResearchReinvented.SteppingStones</li>
+	</loadBefore>
+
+	<description>
+	<![CDATA[<color=#FF004D>Это перевод мода Research Reinvented</color>
+
+
+Для корректной работы перевода он должен быть загружен ПОСЛЕ Research Reinvented.
+
+Описание Research Reinvented:
+
+Подумайте о том, чтобы изобрести скромную мини-турель.
+
+В ванильном Rimworld процесс таков:
+	Колонист садится перед исследовательским столом и пялится на него в течение пяти недель. 
+
+Благодаря новым исследованиям этот процесс может включать в себя любое из следующих действий:
+	Проведите реинжиниринг существующих захваченных турелей.
+	Посмотрите, что вы можете почерпнуть из этой древней, вышедшей из строя охранной турели.
+	Проанализируйте материалы, из которых изготовлена броня башни.
+	Поэкспериментируйте со сталью, чтобы найти эффективные варианты замены стволов.
+	Проверьте, какие изменения в конструкции стандартного пистолета или пистолета пулемета могут привести к созданию турели.
+	Создайте прототип турели, даже если это займет больше времени, а конечный продукт может потребовать немедленной доработки.
+	Попросите союзников поделиться своим опытом или допросите своих заключенных.
+	Проводите мозговой штурм во время социальных взаимодействий между вашими колонистами.
+
+Использование таких возможностей для исследований может значительно ускорить ваш прогресс в исследованиях. Однако, если таковых нет, то исследование резервной теории эквивалентно по скорости обычным исследованиям (эта скорость может быть снижена в настройках мода, если вы предпочитаете стимул для поиска новых возможностей).
+]]>
+	</description>
+</ModMetaData>
