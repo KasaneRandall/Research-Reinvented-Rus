@@ -6,8 +6,8 @@
 	<supportedVersions>
 		<li>1.6</li>
 	</supportedVersions>
-	<modVersion>1.3</modVersion>
-	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=3535986086</url>
+	<modVersion>1.4	</modVersion>
+	<url>https://github.com/KasaneRandall/Research-Reinvented-Rus</url>
 	<modDependencies>
       <li>
         <packageId>PeteTimesSix.ResearchReinvented</packageId>
@@ -20,10 +20,10 @@
 		<li>PeteTimesSix.ResearchReinvented.SteppingStones</li>
 	</loadAfter>
 	<description>
-	<![CDATA[<color=#ED2939>Это перевод мода Research Reinvented</color>
+<![CDATA[<color=#ED2939>Это перевод мода Research Reinvented</color>
 <color=#D21F3C>Опционально: перевод дополнения Research Reinvented: Stepping Stones</color>
 
-Для корректной работы перевода он должен быть загружен ПОСЛЕ Research Reinvented.
+Для корректной работы перевода он должен быть загружен ПОСЛЕ Research Reinvented. И после Research Reinvented: Stepping Stones, если установлено.
 
 Описание <color=#66C0F4>Research Reinvented</color>:
 

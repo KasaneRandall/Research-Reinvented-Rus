@@ -1,7 +1,8 @@
 # Research-Reinvented-Rus
-Версия перевода 1.3.
+Версия перевода 1.4.
 
-Это перевод мода Research Reinvented. Вам все еще понадобится мод Research Reinvented.
+Это перевод мода Research Reinvented и опционально дополнения Research Reinvented: Stepping Stones. 
+Вам все еще понадобится установленный мод Research Reinvented.
 
 Чтобы использовать мод переместите папку "Research Reinvented Rus" в "RimWorld\Mods" и активируйте его в игре после Research Reinvented.
 

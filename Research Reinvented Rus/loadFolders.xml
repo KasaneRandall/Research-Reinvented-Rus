@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <loadFolders>
   <v1.6>
-    <li>1.6/Main</li>
-    <li IfModActive="PeteTimesSix.ResearchReinvented.SteppingStones">1.6/SteppingStones</li>
+    <li>v1.6/RR/</li>
+    <li IfModActive="PeteTimesSix.ResearchReinvented.SteppingStones">v1.6/SS</li>
   </v1.6>
 </loadFolders>
