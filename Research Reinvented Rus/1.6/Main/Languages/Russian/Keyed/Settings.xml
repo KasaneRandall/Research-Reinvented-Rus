@@ -53,7 +53,7 @@
 	<RR_setting_disablePrototypeBillCancellation>Отключить прототипы</RR_setting_disablePrototypeBillCancellation>
 	<!-- Some people experience issues where switching or finishing research results in cancelled construction or bills. Toggle this setting on to disable the function responsible - note that you will be able to exploit prototype bills/constructions by switching research! -->
 	<RR_setting_disablePrototypeBillCancellation_tooltip>У некоторых пользователей возникают проблемы, когда переключение или завершение исследований приводит к отмене строительства или чертежей. Включите этот параметр, чтобы отключить соответствующую функцию - обратите внимание, что вы можете использовать чертежи/построеные прототипы при переключение исследования!</RR_setting_disablePrototypeBillCancellation_tooltip>
-
+	
 	<!-- Enable prisoner knowledge extraction by default -->
 	<RR_setting_enableScienceInterrogationByDefault>Включить допрос заключенных по умолчанию</RR_setting_enableScienceInterrogationByDefault>
 	<!-- If enabled, all new prisoners have knowledge extraction automatically enabled. -->

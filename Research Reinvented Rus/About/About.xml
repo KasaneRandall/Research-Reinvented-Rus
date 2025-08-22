@@ -6,7 +6,7 @@
 	<supportedVersions>
 		<li>1.6</li>
 	</supportedVersions>
-	<modVersion>1.0</modVersion>
+	<modVersion>1.3</modVersion>
 	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=3535986086</url>
 	<modDependencies>
       <li>
@@ -17,18 +17,15 @@
     </modDependencies>
 	<loadAfter>
 		<li>PeteTimesSix.ResearchReinvented</li>
-	</loadAfter>
-	<loadBefore>
 		<li>PeteTimesSix.ResearchReinvented.SteppingStones</li>
-	</loadBefore>
-
+	</loadAfter>
 	<description>
-	<![CDATA[<color=#FF004D>Это перевод мода Research Reinvented</color>
-
+	<![CDATA[<color=#ED2939>Это перевод мода Research Reinvented</color>
+<color=#D21F3C>Опционально: перевод дополнения Research Reinvented: Stepping Stones</color>
 
 Для корректной работы перевода он должен быть загружен ПОСЛЕ Research Reinvented.
 
-Описание Research Reinvented:
+Описание <color=#66C0F4>Research Reinvented</color>:
 
 Подумайте о том, чтобы изобрести скромную мини-турель.
 
@@ -46,6 +43,10 @@
 	Проводите мозговой штурм во время социальных взаимодействий между вашими колонистами.
 
 Использование таких возможностей для исследований может значительно ускорить ваш прогресс в исследованиях. Однако, если таковых нет, то исследование резервной теории эквивалентно по скорости обычным исследованиям (эта скорость может быть снижена в настройках мода, если вы предпочитаете стимул для поиска новых возможностей).
+
+Описание <color=#66C0F4>Research Reinvented: Stepping Stones</color>:
+
+Перестраивает ванильное дерево исследований таким образом, чтобы оно имело более разумную конфигурацию.
 ]]>
 	</description>
 </ModMetaData>
