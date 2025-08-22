@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--v1.4\Defs\Opportunities\ResearchOpportunityTypes_Tooling.xml-->
+
+  <!-- technique exploration -->
+  <AnalyseProductionFacility.header_Direct>освоение техники</AnalyseProductionFacility.header_Direct>
+  <!-- Passively practice with differing tools and methodologies while performing any work at {0}. -->
+  <AnalyseProductionFacility.shortDesc_Direct>Практика использования различных инструментов и технологий, для {0}.</AnalyseProductionFacility.shortDesc_Direct>
+</LanguageData>

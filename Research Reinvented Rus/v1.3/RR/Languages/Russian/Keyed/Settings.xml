@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  	<!--v1.6\Languages\English\Keyed\Settings.xml-->
+
+	<!-- Global config -->
+	<RR_setting_tab_GLOBAL_CONFIG>Глобальные настройки</RR_setting_tab_GLOBAL_CONFIG>
+	<!-- Category presets -->
+	<RR_setting_tab_CATEGORY_PRESETS>Пресеты категорий</RR_setting_tab_CATEGORY_PRESETS>
+	<!-- Category config -->
+	<RR_setting_tab_CATEGORY_CONFIG>Настройка категорий</RR_setting_tab_CATEGORY_CONFIG>
+	
+	<!-- Configure global Research Reinvented settings. -->
+	<RR_setting_tab_GLOBAL_CONFIG_tooltip>Настройка основных параметров Research Reinvented.</RR_setting_tab_GLOBAL_CONFIG_tooltip>
+	<!-- Select a preset of research point distribution between opportunity categories. -->
+	<RR_setting_tab_CATEGORY_PRESETS_tooltip>Выберите пресет распределения очков исследования между категориями возможностей.</RR_setting_tab_CATEGORY_PRESETS_tooltip>
+	<!-- Configure individual research opportunity categories. -->
+	<RR_setting_tab_CATEGORY_CONFIG_tooltip>Настройте отдельные категории возможностей для исследования.</RR_setting_tab_CATEGORY_CONFIG_tooltip>
+
+	<!-- Enable debug mode -->
+	<RR_setting_debugPrintouts>Включить режим отладки</RR_setting_debugPrintouts>
+	<!-- When enabled, various developer printouts and visuals will be active. -->
+	<RR_setting_debugPrintouts_tooltip>При включении, будут активны различные функции для разработчика.</RR_setting_debugPrintouts_tooltip>
+	
+	<!-- Research window defaults to compact mode -->
+	<RR_setting_defaultCompactMode>Окно исследования по умолчанию находится в компактном режиме</RR_setting_defaultCompactMode>
+	<!-- When enabled, the research opportunities list window will default to compact mode. -->
+	<RR_setting_defaultCompactMode_tooltip>Если эта функция включена, окно списка возможностей для исследований по умолчанию находится в компактном режиме.</RR_setting_defaultCompactMode_tooltip>
+	
+
+	<!-- Allow field research without research kit -->
+	<RR_setting_kitlessResearch>Разрешить проведение полевых исследований без исследовательского набора</RR_setting_kitlessResearch>
+	<!-- When enabled, field research can be performed without any research kit for research projects that only require a simple research table/kit. -->
+	<RR_setting_kitlessResearch_tooltip>При включении функции полевые исследования могут проводиться без исследовательского набора для исследований, которым требуется только простой исследовательский стол.</RR_setting_kitlessResearch_tooltip>
+	
+	<!-- Allow field research without kit for neolithic technologies -->
+	<RR_setting_kitlessNeolithicResearch>Разрешить проводить полевые исследования без набора для неолитических технологий</RR_setting_kitlessNeolithicResearch>
+	<!-- When enabled, field research can be performed without any research kit for research projects that are of neolithic tech level. -->
+	<RR_setting_kitlessNeolithicResearch_tooltip>При включении функции позволяют проводить полевые исследования без набора для неолитических технологий</RR_setting_kitlessNeolithicResearch_tooltip>
+	
+	<!-- Select category -->
+	<RR_setting_category_selector>Выбор категории</RR_setting_category_selector>
+	
+	<!-- Category enabled -->
+	<RR_setting_category_enabled>Можно исследовать</RR_setting_category_enabled>
+	<!-- Toggle this to disable this category of research opportunities entirely. -->
+	<RR_setting_category_enabled_tooltip>Снимите галочку, чтобы отключить эту категорию для исслледований.</RR_setting_category_enabled_tooltip>
+	
+	<!-- Available at overall progress -->
+	<RR_setting_category_availableAtOverallProgress>Доступно для общего прогресса</RR_setting_category_availableAtOverallProgress>
+	<!-- Controls during which phase of research is this category available. -->
+	<RR_setting_category_availableAtOverallProgress_tooltip>Контролирует, на каком этапе исследования доступна эта категория.</RR_setting_category_availableAtOverallProgress_tooltip>
+
+	<!-- Target fraction multiplier -->
+	<RR_setting_category_targetFractionMultiplier>Конкретный множитель долей</RR_setting_category_targetFractionMultiplier>
+	<!-- The generated opportunities try to split the research cost of the project according to the relative fraction sizes of categories, depending on this value. -->
+	<RR_setting_category_targetFractionMultiplier_tooltip>Сгенерированные возможности будут распределить стоимость исследования в соответствии с относительными размерами долей категорий, в зависимости от этого значения.</RR_setting_category_targetFractionMultiplier_tooltip>
+	
+	<!-- Target iterations -->
+	<RR_setting_category_targetIterations>Максимальное количество возможностей</RR_setting_category_targetIterations>
+	<!-- The maximum individual opportunities required to complete this category. -->
+	<RR_setting_category_targetIterations_tooltip>Максимальное количество возможностей исследований, необходимых для заполнения этой категории.</RR_setting_category_targetIterations_tooltip>
+	
+	<!-- Infinite overflow -->
+	<RR_setting_category_infiniteOverflow>Бесконечная категория</RR_setting_category_infiniteOverflow>
+	<!-- Allow research in this category to always continue if there are more opportunities of this type available. -->
+	<RR_setting_category_infiniteOverflow_tooltip>Разрешить продолжать исследования в этой категории до тех пор, пока будут доступны дополнительные возможности такого типа.</RR_setting_category_infiniteOverflow_tooltip>
+
+	<!-- Extra fraction multiplier -->
+	<RR_setting_category_extraFractionMultiplier>Дополнительный множитель частей</RR_setting_category_extraFractionMultiplier>
+	<!-- Additional research allowed for this category that is not included in the initial fraction assigned to it. -->
+	<RR_setting_category_extraFractionMultiplier_tooltip>Дополнительные исследования, предусмотренные для этой категории, которые не включены в первоначально присвоенную ей часть.</RR_setting_category_extraFractionMultiplier_tooltip>
+	
+	<!-- Research speed multiplier -->
+	<RR_setting_category_researchSpeedMultiplier>Множитель скорости исследования</RR_setting_category_researchSpeedMultiplier>
+	<!-- Opportunities of this category will have their research speed multiplied by the set percentage. -->
+	<RR_setting_category_researchSpeedMultiplier_tooltip>Скорость исследований в этой категории будет умножена на установленный процент.</RR_setting_category_researchSpeedMultiplier_tooltip>
+	
+	<!-- Total target fraction multiplier -->
+	<RR_setting_category_fractionAxis>Общий множитель скорости исследования</RR_setting_category_fractionAxis>
+	<!-- Research speed -->
+	<RR_setting_category_researchSpeedAxis>Скорость исследования</RR_setting_category_researchSpeedAxis>
+	
+	<!-- Reset to preset default -->
+	<RR_setting_category_resetToDefault>Сброс к значениям по умолчанию</RR_setting_category_resetToDefault>

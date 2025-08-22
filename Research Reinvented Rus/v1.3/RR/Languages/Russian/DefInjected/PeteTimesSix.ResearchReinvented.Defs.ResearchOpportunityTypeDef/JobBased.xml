@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!--v1.3\Defs\Opportunities\ResearchOpportunityTypes_JobBased.xml-->
+
+    <!-- basic research -->
+    <BasicResearch.header_Direct>фундаментальные исследования</BasicResearch.header_Direct>
+    <!-- Stare at a research bench like a big dummy. -->
+    <BasicResearch.shortDesc_Direct>Пялиться на исследовательский стенд, как на большой болванчик.</BasicResearch.shortDesc_Direct>
+
+    <!-- tooling tests -->
+    <AnalyseProductionFacility.header_Direct>испытание технологии</AnalyseProductionFacility.header_Direct>
+    <!-- postulate tool improvements -->
+    <AnalyseProductionFacility.header_Ancestor>постепенное улучшение инструментов</AnalyseProductionFacility.header_Ancestor>
+    <!-- Examine which tools could be used to make stuff. -->
+    <AnalyseProductionFacility.shortDesc_Direct>Понять, как разные инструменты могут быть использованы.</AnalyseProductionFacility.shortDesc_Direct>
+
+      <!-- reverse engineer -->
+    <Analyse.header_Direct>Разоборка</Analyse.header_Direct>
+    <!-- gather manufacturing experience -->
+    <Analyse.header_Ancestor>Изучить практику производства</Analyse.header_Ancestor>
+    <!-- Reverse engineer a thing to figure out stuff. -->
+    <Analyse.shortDesc_Direct>Провести разборку, чтобы разобраться в технологии.</Analyse.shortDesc_Direct>
+  
+    <!-- observe -->
+    <AnalysePawn.header_Direct>Наблюдать</AnalysePawn.header_Direct>
+    <!-- observe -->
+    <AnalysePawn.header_Ancestor>Наблюдать</AnalysePawn.header_Ancestor>
+    <!-- Reverse engineer a thing to figure out stuff. -->
+    <AnalysePawn.shortDesc_Direct>Провести разборку, чтобы разобраться в технологии.</AnalysePawn.shortDesc_Direct>
+  
+    <!-- observe -->
+    <AnalysePawnNonFlesh.header_Direct>Наблюдать</AnalysePawnNonFlesh.header_Direct>
+    <!-- observe -->
+    <AnalysePawnNonFlesh.header_Ancestor>Наблюдать</AnalysePawnNonFlesh.header_Ancestor>
+    <!-- Reverse engineer a thing to figure out stuff. -->
+    <AnalysePawnNonFlesh.shortDesc_Direct>Провести разборку, чтобы разобраться в технологии.</AnalysePawnNonFlesh.shortDesc_Direct>
+  
+    <!-- dissect -->
+    <AnalyseDissect.header_Direct>Вскрыть</AnalyseDissect.header_Direct>
+    <!-- dissect -->
+    <AnalyseDissect.header_Ancestor>Вскрыть</AnalyseDissect.header_Ancestor>
+    <!-- Reverse engineer a thing to figure out stuff. -->
+    <AnalyseDissect.shortDesc_Direct>Провести разборку, чтобы разобраться в технологии.</AnalyseDissect.shortDesc_Direct>
+  
+    <!-- examine internals -->
+    <AnalyseDissectNonFlesh.header_Direct>изучить органы</AnalyseDissectNonFlesh.header_Direct>
+    <!-- examine internals -->
+    <AnalyseDissectNonFlesh.header_Ancestor>изучить органы</AnalyseDissectNonFlesh.header_Ancestor>
+    <!-- Reverse engineer a thing to figure out stuff. -->
+    <AnalyseDissectNonFlesh.shortDesc_Direct>Провести разборку, чтобы разобраться в технологии.</AnalyseDissectNonFlesh.shortDesc_Direct>
+
+    <!-- determine taste profile -->
+    <AnalyseRawFood.header_Direct>определить вкусовой профиль</AnalyseRawFood.header_Direct>
+    <!-- Reverse engineer a thing to figure out stuff. -->
+     <AnalyseRawFood.shortDesc_Direct>Провести разборку, чтобы разобраться в технологии.</AnalyseRawFood.shortDesc_Direct>
+
+    <!-- reproduce recipe -->
+    <AnalyseFood.header_Direct>воспроизвести рецепт</AnalyseFood.header_Direct>
+    <!-- iterate on recipe -->
+     <AnalyseFood.header_Ancestor>повторять рецепт</AnalyseFood.header_Ancestor>
+    <!-- Reverse engineer a thing to figure out stuff. -->
+    <AnalyseFood.shortDesc_Direct>Провести разборку, чтобы разобраться в технологии.</AnalyseFood.shortDesc_Direct>
+
+    <!-- reverse engineer drug -->
+    <AnalyseDrug.header_Direct>разобрать препорат</AnalyseDrug.header_Direct>
+    <!-- Reverse engineer a thing to figure out stuff. -->
+    <AnalyseDrug.shortDesc_Direct>Провести разборку, чтобы разобраться в технологии.</AnalyseDrug.shortDesc_Direct>
+
+    <!-- observe plant growth (at location) -->
+    <AnalysePlant.header_Direct>наблюдать за ростом растений (На территории)</AnalysePlant.header_Direct>
+    <!-- Analyse a plant to figure out stuff. -->
+    <AnalysePlant.shortDesc_Direct>Провести разборку, чтобы разобраться в технологии.</AnalysePlant.shortDesc_Direct>
+
+    <!-- examine harvest products -->
+    <AnalyseHarvestProduct.header_Direct>изучить урожай</AnalyseHarvestProduct.header_Direct>
+    <!-- Analyse harvest products to figure out stuff. -->
+    <AnalyseHarvestProduct.shortDesc_Direct>Изучить продукты, чтобы разобраться в технологии.</AnalyseHarvestProduct.shortDesc_Direct>
+  
+    <!-- material analysis -->
+    <AnalyseIngredients.header_Direct>анализ материалов</AnalyseIngredients.header_Direct>
+    <!-- Analyse materials to figure out stuff. -->
+    <AnalyseIngredients.shortDesc_Direct>Проанализировать материалы, чтобы разобраться в технологии.</AnalyseIngredients.shortDesc_Direct>
+
+    <!-- chemical compound analysis -->
+    <AnalyseIngredientsDrug.header_Direct>Анализ химических соединений</AnalyseIngredientsDrug.header_Direct>
+    <!-- Analyse materials to figure out stuff. -->
+    <AnalyseIngredientsDrug.shortDesc_Direct>Проанализировать материалы, чтобы разобраться в технологии.</AnalyseIngredientsDrug.shortDesc_Direct>
+
+    <!-- ingredient analysis -->
+    <AnalyseIngredientsFood.header_Direct>анализ компонентов</AnalyseIngredientsFood.header_Direct>
+    <!-- Analyse materials to figure out stuff. -->
+    <AnalyseIngredientsFood.shortDesc_Direct>Проанализировать материалы, чтобы разобраться в технологии.</AnalyseIngredientsFood.shortDesc_Direct>
+  
+    <!-- ingredient analysis -->
+    <AnalyseIngredientsRawFood.header_Direct>анализ компонентов</AnalyseIngredientsRawFood.header_Direct>
+    <!-- Analyse materials to figure out stuff. -->
+    <AnalyseIngredientsRawFood.shortDesc_Direct>Проанализировать материалы, чтобы разобраться в технологии.</AnalyseIngredientsRawFood.shortDesc_Direct>
+  
+    <!-- active ingredient analysis -->
+    <AnalyseFuelDrug.header_Direct>анализ активных компонентов</AnalyseFuelDrug.header_Direct>
+    <!-- Analyse materials to figure out stuff. -->
+    <AnalyseFuelDrug.shortDesc_Direct>Проанализировать материалы, чтобы разобраться в технологии.</AnalyseFuelDrug.shortDesc_Direct>
+
+    <!-- nutrient content analysis -->
+    <AnalyseFuelFood.header_Direct>анализ содержания питательных веществ</AnalyseFuelFood.header_Direct>
+    <!-- Analyse materials to figure out stuff. -->
+    <AnalyseFuelFood.shortDesc_Direct>Проанализировать материалы, чтобы разобраться в технологии.</AnalyseFuelFood.shortDesc_Direct>
+
+    <!-- fuel efficiency analysis -->
+    <AnalyseFuelFlammable.header_Direct>анализ топливной эффективности</AnalyseFuelFlammable.header_Direct>
+    <!-- Analyse materials to figure out stuff. -->
+    <AnalyseFuelFlammable.shortDesc_Direct>Проанализировать материалы, чтобы разобраться в технологии.</AnalyseFuelFlammable.shortDesc_Direct>
+  
+    <!-- resupply material analysis -->
+    <AnalyseFuel.header_Direct>анализ способов пополнения запасов</AnalyseFuel.header_Direct>
+    <!-- Analyse materials to figure out stuff. -->
+    <AnalyseFuel.shortDesc_Direct>Проанализировать материалы, чтобы разобраться в технологии.</AnalyseFuel.shortDesc_Direct>
+
+    <!-- reverse engineer floor -->
+    <AnalyseFloor.header_Direct>Разбор пола</AnalyseFloor.header_Direct>
+    <!-- gather construction experience -->
+    <AnalyseFloor.header_Ancestor>получить опыт строительства</AnalyseFloor.header_Ancestor>
+    <!-- Analyse terrain to figure out stuff. -->
+    <AnalyseFloor.shortDesc_Direct>Изучить местность, чтобы понять технологию.</AnalyseFloor.shortDesc_Direct>
+  
+    <!-- soil analysis -->
+    <AnalyseSoil.header_Direct>анализ почвы</AnalyseSoil.header_Direct>
+    <!-- Analyse soil to figure out stuff. -->
+    <AnalyseSoil.shortDesc_Direct>Анализ почвы, чтобы понять технологию.</AnalyseSoil.shortDesc_Direct>
+  
+    <!-- terrain analysis -->
+    <AnalyseTerrain.header_Direct>анализ поверхности</AnalyseTerrain.header_Direct>
+    <!-- Analyse terrain to figure out stuff. -->
+    <AnalyseTerrain.shortDesc_Direct>Изучить местность, чтобы понять технологию.</AnalyseTerrain.shortDesc_Direct>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  	<!--v1.6\Languages\English\Keyed\Jobs.xml-->
+
+	<!-- Incapable of research -->
+	<RR_jobFail_incapableOfResearch>Не способен исследовать.</RR_jobFail_incapableOfResearch>
+	<!-- Need a research kit capable of analysis -->
+	<RR_jobFail_needResearchKit>Нужен исследовательский набор, пригодный для анализа.</RR_jobFail_needResearchKit>
+	<!-- Cannot find or reach a research bench capable of analysis -->
+	<RR_jobFail_needResearchBench>Невозможно найти или добраться до исследовательского стола, чтобы провести анализ.</RR_jobFail_needResearchBench>
+</LanguageData>

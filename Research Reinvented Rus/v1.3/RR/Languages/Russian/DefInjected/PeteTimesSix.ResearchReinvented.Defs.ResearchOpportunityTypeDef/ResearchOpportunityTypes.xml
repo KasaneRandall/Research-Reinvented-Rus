@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!--v1.3\Defs\Opportunities\xx_Legacy_ResearchOpportunityTypes.xml-->
+
+    <!-- reverse engineer (at location) -->
+    <AnalyseInPlace.header_Direct>разобрать (на месте)</AnalyseInPlace.header_Direct>
+    <!-- gather construction experience -->
+    <AnalyseInPlace.header_Ancestor>накопить опыт строительства</AnalyseInPlace.header_Ancestor>
+    <!-- Reverse engineer a thing to figure out stuff. -->
+    <AnalyseInPlace.shortDesc_Direct>Провести разборку, чтобы разобраться в технологии.</AnalyseInPlace.shortDesc_Direct>
+<LanguageData>
