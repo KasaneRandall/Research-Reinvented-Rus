@@ -1,6 +1,6 @@
 <h1 align="center">Research Reinvented Rus</h1>
-<span>Версия перевода 1.5.</span><br>
-<span>Страница мода в мастерской <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3535945070">steam</a></span><br>
+<span>Версия перевода 1.4.</span><br>
+<span>Страница мода в мастерской <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3535986086">steam</a></span><br>
 <span>Поддерживаемые версии RimWorld:</span>
 <ul>
 <li>1.3</li>
