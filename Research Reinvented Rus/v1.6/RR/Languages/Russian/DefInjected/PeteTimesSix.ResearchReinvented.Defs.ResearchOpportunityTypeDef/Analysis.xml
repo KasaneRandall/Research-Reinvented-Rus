@@ -18,7 +18,7 @@
   <!-- Observe a {0} in motion.\n\nAffected by (in the field):\nResearch kit research speed stat\nResearcher research speed stat -->
   <AnalysePawn.shortDesc_Direct>Наблюдать за {0} в действии.\n\nЧто влияет на полевое исследование:\n-Скорость исследования исследовательского набора\n-Скорость исследования</AnalysePawn.shortDesc_Direct>
   <!-- Observe a {0} in motion.\n\nAffected by (in the field):\nResearch kit research speed stat\nResearcher research speed stat -->
-  <AnalysePawn.shortDesc_Ancestor>Наблюдать за {0} в действии.</AnalysePawn.shortDesc_Ancestor>
+  <AnalysePawn.shortDesc_Ancestor>Наблюдать за {0} в действии.\n\nЧто влияет на полевое исследование:\n-Скорость исследования исследовательского набора\n-Скорость исследования</AnalysePawn.shortDesc_Ancestor>
   
   <!-- observe -->
   <AnalysePawnNonFlesh.header_Direct>Наблюдать</AnalysePawnNonFlesh.header_Direct>
@@ -27,7 +27,7 @@
   <!-- Observe a {0} in motion.\n\nAffected by (in the field):\nResearch kit research speed stat\nResearcher research speed stat -->
   <AnalysePawnNonFlesh.shortDesc_Direct>Наблюдать за {0} в действии.\n\nЧто влияет на полевое исследование:\n-Скорость исследования исследовательского набора\n-Скорость исследования</AnalysePawnNonFlesh.shortDesc_Direct>
   <!-- Observe a {0} in motion.\n\nAffected by (in the field):\nResearch kit research speed stat\nResearcher research speed stat -->
-  <AnalysePawnNonFlesh.shortDesc_Ancestor>Наблюдать за {0} в действии.</AnalysePawnNonFlesh.shortDesc_Ancestor>
+  <AnalysePawnNonFlesh.shortDesc_Ancestor>Наблюдать за {0} в действии.\n\nЧто влияет на полевое исследование:\n-Скорость исследования исследовательского набора\n-Скорость исследования</AnalysePawnNonFlesh.shortDesc_Ancestor>
   
   <!-- dissect -->
   <AnalyseDissect.header_Direct>Вскрыть</AnalyseDissect.header_Direct>
@@ -36,7 +36,7 @@
   <!-- Dissect a {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat -->
   <AnalyseDissect.shortDesc_Direct>Вскрыть {0}.\n\nЧто влияет на лабороторное исследование:\n-Скорость исследования на лабораторном столе\n-Скорость исследования</AnalyseDissect.shortDesc_Direct>
   <!-- Dissect a {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat -->
-  <AnalyseDissect.shortDesc_Ancestor>Вскрыть {0}.</AnalyseDissect.shortDesc_Ancestor>
+  <AnalyseDissect.shortDesc_Ancestor>Вскрыть {0}.\n\nЧто влияет на лабороторное исследование:\n-Скорость исследования на лабораторном столе\n-Скорость исследования</AnalyseDissect.shortDesc_Ancestor>
   
   <!-- examine internals -->
   <AnalyseDissectNonFlesh.header_Direct>изучить органы</AnalyseDissectNonFlesh.header_Direct>
@@ -45,7 +45,7 @@
   <!-- Examine the internal workings of a {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat -->
   <AnalyseDissectNonFlesh.shortDesc_Direct>Изучить внутренние органы {0}.\n\nЧто влияет на лабороторное исследование:\n-Скорость исследования на лабораторном столе\n-Скорость исследования</AnalyseDissectNonFlesh.shortDesc_Direct>
   <!-- Examine the internal workings of a {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat -->
-  <AnalyseDissectNonFlesh.shortDesc_Ancestor>Изучить внутренние органы {0}.</AnalyseDissectNonFlesh.shortDesc_Ancestor>
+  <AnalyseDissectNonFlesh.shortDesc_Ancestor>Изучить внутренние органы {0}.\n\nЧто влияет на лабороторное исследование:\n-Скорость исследования на лабораторном столе\n-Скорость исследования</AnalyseDissectNonFlesh.shortDesc_Ancestor>
   
   <!-- observe plant growth (at location) -->
   <AnalysePlant.header_Direct>наблюдать за ростом растений (На территории)</AnalysePlant.header_Direct>
